@@ -1,0 +1,7 @@
+You can run the application by using ruby script as follows :
+
+ruby run.rb "how much is pish tegj glob glob ?"
+ruby run.rb "how many Credits is glob prok Silver ?"
+ruby run.rb "how many Credits is glob prok Gold ?"
+ruby run.rb "how many Credits is glob prok Iron ?"
+ruby run.rb "how much wood could a woodchuck chuck if a woodchuck could chuck wood ?"
